@@ -11,6 +11,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
   - _**Total Schools**_: determined by calculating the lengeth of the school_data_complete_df and only taking into account each unique school name once.
   - _**Total Students**_: was calculated by counting the total unique "School ID"s in the dataset.
   - _**Total Budget**_: the sum of the total budget of each school in the district.
-  - 
+  - _**Average Math & Average Reading Scores**_:
+  - _**% Passing Math, % Passing Reading, % Passing Overal**_
 
 
