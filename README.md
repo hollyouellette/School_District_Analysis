@@ -7,4 +7,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 
 ### How is the district summary affected?
 
-![](
+<img align="left" src="https://github.com/hollyouellette/School_District_Analysis">
+
+
+
