@@ -6,8 +6,11 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 ## Results
 
 ### How is the district summary affected?
-
+**School District Summary**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/District_Summary.png">
-
+  - _**Total Schools**_: determined by calculating the lengeth of the school_data_complete_df and only taking into account each unique school name once.
+  - _**Total Students**_: was calculated by counting the total unique "School ID"s in the dataset.
+  - _**Total Budget**_: the sum of the total budget of each school in the district.
+  - 
 
 
