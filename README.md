@@ -6,11 +6,13 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 ## Results
 
 ### How is the district summary affected?
-**School District Summary**
+**District Summary**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/District_Summary.png">
   - The average Reading and Math scores for the School District were passing grades (over 70%).
   - On average, students in this school district score higher on the Reading standardized test versus Math.
   - While a signicant percentage of students passed each of the Math or Reading standardized tests, significantly less students in this district passed both standardized tests (all indicated by the **% Overall Passing** column)
   
-
+### How is the school summary affected?
+**School Summary**
+<img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary.png">
 
