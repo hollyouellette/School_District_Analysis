@@ -29,6 +29,8 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 
 
 **Math & Reading Scores for Thomas High School without 9th Grade**
+
+
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_Sr_Grades.png">
 
 - By replacing the 9th grader's math and readig scores, Thomas High school saw a 20+% increased accross all % Passing data.
