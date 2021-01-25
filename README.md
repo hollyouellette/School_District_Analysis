@@ -1,21 +1,21 @@
 # School District Analysis
 ## Overview of School District Analysis
 
-In this assignment the task at hand was to assist Maria, the chief data scientist for a city school district. In this project, we performed analysis on multiple datasets containing stats on school funding, student reading and writing standardized test scores as well as other information about the schools they attend. In this analysis the data was aggregate to showcase trends in school performance to ultimately assist the assist School Board and Super Intendent in making decisions regarding the school budgets and prioroties.
+In this assignment the task at hand was to assist Maria, the chief data scientist for a city school district. Wwe performed analysis on multiple datasets containing stats on student reading and writing standardized test scores, school funding and other information about the schools that the students attend. In this analysis the data was aggregated to showcase trends in school performance to ultimately assist the School Board and Super Intendent in making decisions regarding the school budgets and prioroties.
 
 ## Results
 
 ### How is the district summary affected?
 **District Summary**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/District_Summary.png">
-  - The average Reading and Math scores for the School District were passing grades (over 70%).
+  - The average Reading and Math scores for this school district were passing grades (over 70%).
   - On average, students in this school district score higher on the Reading standardized test versus Math.
-  - While a signicant percentage of students passed each of the Math or Reading standardized tests, significantly less students in this district passed both standardized tests (all indicated by the **% Overall Passing** column)
+  - While a signicant percentage of students passed either on of the Math or Reading standardized tests, significantly less students in this district passed both standardized tests (all indicated by the **% Overall Passing** column).
   
 ### How is the school summary affected?
 **School Summary**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary.png">
-  - Charter schools have smaller student populations than the District Schools
+  - Charter schools have smaller student populations than the District Schools:
     - _**District School Total Students Range:**_ 2739 - 4976
     - _**Charter School Total Students Range:**_ 427 - 2283
   - Charter schools have a significantly higher % Overall Passing than the District Schools.
@@ -37,8 +37,8 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_Sr_Grades.png">
 <br/>
 <br/>
-- By replacing the 9th grader's math and readig scores, Thomas High school saw a 20+% increased accross all % Passing data.
-- This adjustment resulted in Thomas High School (THS) become on trend with the rest of the Charter schools in the district. 
+- By replacing the 9th grader's math and reading scores, Thomas High school saw a 25+% increased accross all % Passing data.
+- This adjustment resulted in Thomas High School (THS) becoming on trend with the rest of the Charter schools in the district. 
 
 **Updated School Summary with removal of THS 9th Grade Test Scores**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary_THS_adj.png">
@@ -54,13 +54,13 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
   <br/>
   **Scores by school spending:**
  
-  - Removing grade 9 scores from THS results in an acurate data output for the $630-644 spending range schools (it is no longer skewed by tampered results).
+  - Removing grade 9 scores from THS results in an acurate data for % Passing outputs in the $630-644 spending range schools (it is no longer skewed by tampered results).
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_Spending_Ranges.png">
   <br/>
   
   **Scores by school size:**
   
-  - Removing grade 9 scores from THS results in medium sized schools results in an output with accurate test score data for Medium-sized schools (it is no longer skewed by tampered results).
+  - Removing grade 9 scores from THS results in medium sized schools results in an output with more accurate % Passing data for Medium-sized schools (it is no longer skewed by tampered results).
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_School_Size.png">
   <br/>
 
