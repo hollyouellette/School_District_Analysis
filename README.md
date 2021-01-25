@@ -1,7 +1,7 @@
 # School District Analysis
 ## Overview of School District Analysis
 
-In this assignment the task at hand was to assist Maria, the chief data scientist for a city school district. We performed analysis on multiple datasets containing stats on student reading and writing standardized test scores, school funding and other information about the schools that the students attend. In this analysis the data was aggregated to showcase trends in school performance to ultimately assist the School Board and Super Intendent in making decisions regarding the school budgets and priorities.
+In this assignment the task at hand was to assist Maria, the Chief Data Scientist for a city school district. We performed analysis on multiple datasets containing stats on student reading and writing standardized test scores, school funding and other information about the schools that the students attend. In this analysis the data was aggregated to showcase trends in school performance to ultimately assist the School Board and Super Intendent in making decisions regarding the school budgets and priorities.
 
 ## Results
 
@@ -10,7 +10,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/District_Summary.png">
   - The average Reading and Math scores for this school district were passing grades (over 70%).
   - On average, students in this school district score higher on the Reading standardized test versus Math.
-  - While a significant percentage of students passed either on of the Math or Reading standardized tests, significantly less students in this district passed both standardized tests (all indicated by the **% Overall Passing** column).
+  - While a significant percentage of students passed either one of the Math or Reading standardized tests, significantly less students in this district passed both standardized tests (all indicated by the **% Overall Passing** column).
   
 ### How is the school summary affected?
 **School Summary**
@@ -24,7 +24,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
   - Fluctuations in % Overall Passing were due to significantly lower % Passing Math in the District Schools. 
   
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-**Original Math & Reading Scores for Thomas High School**
+**Original Math & Reading Scores for Thomas High School (THS)**
 <br/>
 <br/>
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_All_Grades.png">
@@ -38,7 +38,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 <br/>
 <br/>
 - By replacing the 9th grader's math and reading scores, Thomas High school saw a 25+% increased across all % Passing data.
-- This adjustment resulted in Thomas High School (THS) becoming on trend with the rest of the Charter schools in the district. 
+- This adjustment resulted in Thomas High School becoming on trend with the rest of the Charter schools in the district. 
 
 **Updated School Summary with removal of THS 9th Grade Test Scores**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary_THS_adj.png">
@@ -54,7 +54,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
   <br/>
   **Scores by school spending:**
  
-  - Removing grade 9 scores from THS results in an accurate data for % Passing outputs in the $630-644 spending range schools (it is no longer skewed by tampered results).
+  - Removing grade 9 scores from THS results in an accurate data for % Passing outputs in the $630-$644 spending range schools (it is no longer skewed by tampered results).
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_Spending_Ranges.png">
   <br/>
   
