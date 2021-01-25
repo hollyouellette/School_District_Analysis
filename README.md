@@ -15,4 +15,17 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 ### How is the school summary affected?
 **School Summary**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary.png">
+  - Charter schools have smaller student populations than the District Schools
+    - _**District School Total Students Range:**_ 2739 - 4976
+    - _**Charter School Total Students Range:**_ 427 - 2283
+  - Charter schools have a significantly higher % Overall Passing than the District Schools.
+    - Amongst the District Schools, the Overall Passing Percentage consistenly hovered near 50%.
+  - Average Reading Scores and % Passing Reading were consistenly high accross all schools (aside from Thomas High School due to NaN values, which will be addressed in the following section).
+  - Fluctuations in % Overall Passing were due to signigicantly lower % Passing Math in the District Schools. 
+  
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+**Original Math & Reading Scores for Thomas High School**
+<img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_All_Grades.png">
 
+**Math & Reading Scores for Thomas High School without 9th Grade**
+<img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_Sr_Grades.png">
