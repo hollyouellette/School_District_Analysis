@@ -42,3 +42,13 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 
 **Updated School Summary with removal of THS 9th Grade Test Scores**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary_THS_adj.png">
+
+### How does replacing the ninth-grade scores affect the following:
+  <br/>
+  **Math and reading scores by grade:**
+  
+  **Scores by school spending:**
+  
+  **Scores by school size:**
+  
+  **Scores by school type:**
