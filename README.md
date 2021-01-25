@@ -46,6 +46,8 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 ### How does replacing the ninth-grade scores affect the following:
 
 **Math Scores [left] & Reading Scores [right] by grade:**
+<br/>
+<br/>
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Scores_by_Grade.png" height= 400> 
   <img src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Reading_by_grade.png" height= 400><center/>
   <br/>
