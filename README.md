@@ -27,7 +27,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 **Original Math & Reading Scores for Thomas High School**
 <br/>
 <br/>
-<img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_All_Grades.png" width=200>
+<img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_All_Grades.png">
 <br/>
 <br/>
 <br/>
@@ -45,11 +45,20 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 
 ### How does replacing the ninth-grade scores affect the following:
 
-  **Math and reading scores by grade:**
+  **Math Scores by grade:**
   <br/>
-  <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Reading_by_grade.png">
+  <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Scores_by_Grade.png" height= 400>
+ **Reading Scores by grade**
+  <br/>
+  <img src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Reading_by_grade.png" height= 400>
   <br/>
   
+   - removing the 
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
   **Scores by school spending:**
   <br/>
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_Spending_Ranges.png">
