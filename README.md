@@ -27,5 +27,12 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 **Original Math & Reading Scores for Thomas High School**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_All_Grades.png">
 
+
 **Math & Reading Scores for Thomas High School without 9th Grade**
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_Sr_Grades.png">
+
+- By replacing the 9th grader's math and readig scores, Thomas High school saw a 20+% increased accross all % Passing data.
+- This adjustment resulted in Thomas High School (THS) become on trend with the rest of the Charter schools in the district. 
+
+**Updated School Summary with removal of THS 9th Grade Test Scores**
+<img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary_THS_adj.png">
