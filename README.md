@@ -74,7 +74,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 1. The Grade 9 Test Scores for Thomas High School were ommited from the School Test Scores by Grade analysis.
 2. % Passing Math, % Passing Reading and % Overall Passing increased for the Medium-Sized school bin.
 3. % Passing Math, % Passing Reading and % Overall Passing increased for the schools with a Per-Student Budget Range of $630-$644.
-4. Saw the following significant increases in the % Passing Math, % Passing Reading and % Overall Passing for Thomas High School:
+4. Saw the following significant increases in the % Passing Math, % Passing Reading and % Overall Passing for Thomas High School:<br/>
   **% Passing Math**: 26% increase<br/>
   **% Passing Reading**: 27% incease<br/>
   **% Overall Passing**: 25%
