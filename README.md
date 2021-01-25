@@ -27,7 +27,7 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 **Original Math & Reading Scores for Thomas High School**
 <br/>
 <br/>
-<img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_All_Grades.png" height=300>
+<img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_All_Grades.png" width=200>
 <br/>
 <br/>
 <br/>
