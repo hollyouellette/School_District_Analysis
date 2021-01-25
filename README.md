@@ -58,14 +58,24 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
   - Removing grade 9 scores from THS results in an acurate data output for the $630-644 spending range schools (it is no longer skewed by tampered results).
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_Spending_Ranges.png">
   <br/>
+  
   **Scores by school size:**
   
   - Removing grade 9 scores from THS results in medium sized schools results in an output with accurate test score data for Medium-sized schools (it is no longer skewed by tampered results).
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_School_Size.png">
   <br/>
 
-  
   **Scores by school type:**
-  <br/>
+   - Removing grade 9 scores from THS results in an accurate % Passing Math, % Passing Reading and % Overall Passing for Charter Schools.
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_by_Type.png">
   <br/>
+
+## Summary
+### The following is a summary of the four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+1. The Grade 9 Test Scores for Thomas High School were ommited from the School Test Scores by Grade analysis.
+2. % Passing Math, % Passing Reading and % Overall Passing increased for the Medium-Sized school bin.
+3. % Passing Math, % Passing Reading and % Overall Passing increased for the schools with a Per-Student Budget Range of $630-$644.
+4. Saw the following significant increases in the % Passing Math, % Passing Reading and % Overall Passing for Thomas High School:
+  **% Passing Math**: 26% increase
+  **% Passing Reading**: 27% incease
+  **% Overall Passing**: 25%
