@@ -44,18 +44,16 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary_THS_adj.png">
 
 ### How does replacing the ninth-grade scores affect the following:
-
+<br/>
 **Math Scores [left] & Reading Scores [right] by grade:**
 <br/>
 <br/>
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Scores_by_Grade.png" height= 400> 
   <img src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Reading_by_grade.png" height= 400><center/>
-  <br/>
-  <br/>
+  
    - As a result of removing the grade 9 scores, the Math Scores and Reading Scores for the THS reads as "NaN"
   <br/>
-  <br/>
-  
+ 
   **Scores by school spending:**
   <br/>
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_Spending_Ranges.png">
