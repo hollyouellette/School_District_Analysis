@@ -25,7 +25,9 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
   
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 **Original Math & Reading Scores for Thomas High School**
+
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Thomas_High_School_All_Grades.png">
+
 
 
 **Math & Reading Scores for Thomas High School without 9th Grade**
