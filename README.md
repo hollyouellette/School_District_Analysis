@@ -44,11 +44,23 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/School_Summary_THS_adj.png">
 
 ### How does replacing the ninth-grade scores affect the following:
-  <br/>
+
   **Math and reading scores by grade:**
+  <br/>
+  <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Reading_by_grade.png">
+  <br/>
   
   **Scores by school spending:**
+  <br/>
+  <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_Spending_Ranges.png">
+  <br/>
   
   **Scores by school size:**
+  <br/>
+  <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_School_Size.png">
+  <br/>
   
   **Scores by school type:**
+  <br/>
+  <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_by_Type.png">
+  <br/>
