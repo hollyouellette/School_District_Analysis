@@ -75,6 +75,6 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 2. % Passing Math, % Passing Reading and % Overall Passing increased for the Medium-Sized school bin.
 3. % Passing Math, % Passing Reading and % Overall Passing increased for the schools with a Per-Student Budget Range of $630-$644.
 4. Saw the following significant increases in the % Passing Math, % Passing Reading and % Overall Passing for Thomas High School:
-  **% Passing Math**: 26% increase
-  **% Passing Reading**: 27% incease
+  **% Passing Math**: 26% increase<br/>
+  **% Passing Reading**: 27% incease<br/>
   **% Overall Passing**: 25%
