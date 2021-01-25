@@ -52,7 +52,6 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Scores_by_Grade.png" height= 400> 
   <img src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Reading_by_grade.png" height= 400><center/>
   <br/>
-  <br/>
   **Scores by school spending:**
  
   - Removing grade 9 scores from THS results in an acurate data output for the $630-644 spending range schools (it is no longer skewed by tampered results).
