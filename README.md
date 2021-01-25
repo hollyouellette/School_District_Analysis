@@ -45,27 +45,26 @@ In this assignment the task at hand was to assist Maria, the chief data scientis
 
 ### How does replacing the ninth-grade scores affect the following:
 
-  **Math Scores by grade:**
-  <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Scores_by_Grade.png" height= 400>
- **Reading Scores by grade**
-  <img src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Reading_by_grade.png" height= 400>
+**Math Scores [left] & Reading Scores [right] by grade:**
+  <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Scores_by_Grade.png" height= 400> 
+  <img src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Math_Reading_by_grade.png" height= 400><center/>
+  <br/>
+  <br/>
+   - As a result of removing the grade 9 scores, the Math Scores and Reading Scores for the THS reads as "NaN"
+  <br/>
   <br/>
   
-   - removing the 
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
   **Scores by school spending:**
   <br/>
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_Spending_Ranges.png">
   <br/>
+  - Removing grade 9 scores from THS results in an acurate data output for the $630-644 spending range schools (it is no longer skewed by tampered results).
   
   **Scores by school size:**
   <br/>
   <img align="left" src="https://github.com/hollyouellette/School_District_Analysis/blob/main/Analysis/Scores_By_School_Size.png">
   <br/>
+  - Removing grade 9 scores from THS results in medium sized schools results in an output with accurate test score data for Medium-sized schools (it is no longer skewed by tampered results).
   
   **Scores by school type:**
   <br/>
